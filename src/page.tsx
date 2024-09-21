@@ -1,5 +1,3 @@
-"use client"; // Add this line at the top
-
 import React, { useState } from 'react';
 import ImageGrid from '../components/imageGrid';
 
